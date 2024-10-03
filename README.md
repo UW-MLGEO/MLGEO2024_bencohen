@@ -26,5 +26,8 @@ conda activate bencohen_env
 
 Your environment is now ready and activated!
 
+# Git add/commit/push demonstration
+[This PDF](./addpushcommit.pdf) contains a demonstration of how to add/commit/push to this repository
+
 # Licensing
 I chose to use the MIT license template as it is straightforward and allows for use of the data and code in my repository while maintaining warranty/liability protections.
