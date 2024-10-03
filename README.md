@@ -1,5 +1,6 @@
 # ESS 569 Autumn 2024
 Ben Cohen
+My personal favorite Earth science topics include: remote sensing, sea ice, photogrammetry, and how the previous intersect with other disciplines such as ecology, atmospheric sciences, etc.
 ## Installing and activating this repository
 To clone and activate my repository, follow the steps below in your terminal:
 
@@ -24,3 +25,6 @@ conda activate bencohen_env
 ```
 
 Your environment is now ready and activated!
+
+# Licensing
+I chose to use the MIT license template as it is straightforward and allows for use of the data and code in my repository while maintaining warranty/liability protections.
